@@ -1,1 +1,2 @@
 # Credit_card_Transcations-Report
+This report is a Credit Card Transaction Analysis showing total revenue of 55.32M from 10K+ customers and 7.84M interest earned. The Blue card dominates (83% of revenue), mainly used by 30–45-year-old businessmen. Most payments are done via swipe (35M), with spending highest on bills and entertainment. State-wise, NY and TX lead in revenue. Overall, middle-aged professionals using Blue cards with swipe transactions drive the majority of revenue.
